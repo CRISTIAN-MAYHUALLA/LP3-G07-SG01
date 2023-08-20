@@ -17,7 +17,7 @@ public class Principal {
 	         if (fl = true)
 	            System.out.println("Adivinaste, FELICIDADEEEEEESSS!!!!! ");
 	         else
-	            System.out.println("ups, perdiste...");
+	            System.out.println("ups, perdiste, Vuelve a Intentarlo :) ");
 	    }
 	
 
