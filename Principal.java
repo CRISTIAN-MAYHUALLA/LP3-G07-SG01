@@ -30,5 +30,7 @@ public class Principal {
         }
 
         System.out.println("Usaste " + vida + " vidas.");
+        
     }
+    
 }
